@@ -33,7 +33,9 @@ Streamlit.
 * Installing Conda and setting up Conda environment.
 * Researching provided ML models for the audio driven approach and deciding which model to implement.
 * Learning about streamlit and WebRTC concepts.
-
+### Update on Iteration 1:
+* We have installed python 3.6 and completed the setup of conda.We parallely explored Streamlit WebRTC and developed some components.
+  Experimented with aiortc to understand webRTC.We decided on using MakeIttalk ML model.Also we tried to test multiple models.Please refer to    "iteration_one_progress.pdf" file in the iteration-1 branch.
 ### Iteration 2:
 * Creating a UI design for the application.
 * Developing a video call application using WebRTC(aiortc library).
