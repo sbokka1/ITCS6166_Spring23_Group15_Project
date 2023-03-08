@@ -21,7 +21,7 @@ After studying about streamlit and webrtc protocol, we locally tried multiple bi
 
 Fig: Screenshot representing the run instructions and run results.
 
-![image](https://user-images.githubusercontent.com/119869449/223612952-a8573cd1-9543-42df-972d-f8c747cf9afb.png)
+![image](https://user-images.githubusercontent.com/119869449/223623949-6d730cd3-4049-42f7-801e-09a32c8135c0.png)
 
 Fig: Streamlit page
 
